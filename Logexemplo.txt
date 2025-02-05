@@ -1,0 +1,6 @@
+2025-02-05 12:00:00 INFO Início do processamento
+2025-02-05 12:05:00 WARNING Memória baixa
+2025-02-05 12:10:00 ERROR Falha ao conectar ao banco de dados
+2025-02-05 12:15:00 INFO Processamento concluído com sucesso
+2025-02-05 12:20:00 DEBUG Dados do processo: x=5, y=10
+2025-02-05 12:30:00 ERROR Erro de autenticação
